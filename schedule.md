@@ -1,10 +1,10 @@
 ======================================================================
-BOY SCOUT CAMP - WEEK 2 SCHEDULE
+BOY SCOUT CAMP - WEEKLY SCHEDULE
 Advanced Activities, Leadership Development, and Specialized Programs
 ======================================================================
-Week 2 builds upon foundational skills learned in week 1 with more challenging activities, leadership opportunities, and specialized merit badge programs designed for experienced scouts.
+This is a typical weekly schedule for scouts attending Trevor Reec Scout Camp. Each troop stays for one week, with activities running from Day 1 (Sunday) through Day 7 (Saturday).
 
-SPECIAL PROGRAMS OFFERED THIS WEEK:
+SPECIAL PROGRAMS OFFERED DURING THE WEEK:
 ----------------------------------------
 LEADERSHIP DEVELOPMENT:
   • Patrol Leader Council Training
@@ -27,7 +27,27 @@ SPECIALIZED MERIT BADGES:
 
 ======================================================================
 
-MONDAY - Leadership Challenge Day (Day 8)
+SUNDAY - Arrival & Orientation Day (Day 1)
+--------------------------------------------------
+SPECIAL EVENT: Troop Check-in and Camp Orientation
+
+06:30    Reveille and Morning Formation
+07:00    Flag Ceremony
+07:15    Breakfast
+08:30    Camp Tour and Safety Briefing
+10:00    Troop Equipment Check
+12:00    Lunch
+13:30    Patrol Formation and Team Building Activities
+15:00    Leave No Trace Principles Training
+16:00    Recreational Time
+17:30    Dinner
+19:00    Campfire - Welcome Ceremony
+20:30    Evening Reflection - Troop Meetings
+21:30    Taps
+
+======================================================================
+
+MONDAY - Leadership Challenge Day (Day 2)
 --------------------------------------------------
 SPECIAL EVENT: Patrol Leader Recognition Ceremony
 
@@ -48,7 +68,7 @@ SPECIAL EVENT: Patrol Leader Recognition Ceremony
 
 ======================================================================
 
-TUESDAY - Aquatics & Adventure Day (Day 9)
+TUESDAY - Aquatics & Adventure Day (Day 3)
 --------------------------------------------------
 SPECIAL EVENT: Whitewater Rafting Adventure Trip
 
@@ -68,7 +88,7 @@ SPECIAL EVENT: Whitewater Rafting Adventure Trip
 
 ======================================================================
 
-WEDNESDAY - Pioneering & Engineering Day (Day 10)
+WEDNESDAY - Pioneering & Engineering Day (Day 4)
 --------------------------------------------------
 SPECIAL EVENT: Pioneering Design Competition
 
@@ -88,7 +108,7 @@ SPECIAL EVENT: Pioneering Design Competition
 
 ======================================================================
 
-THURSDAY - Outdoor Skills & Survival Day (Day 11)
+THURSDAY - Outdoor Skills & Survival Day (Day 5)
 --------------------------------------------------
 SPECIAL EVENT: Survival Skills Workshop with Local SAR Team
 
@@ -108,7 +128,7 @@ SPECIAL EVENT: Survival Skills Workshop with Local SAR Team
 
 ======================================================================
 
-FRIDAY - Summit Adventure Challenge (Day 12)
+FRIDAY - Summit Adventure Challenge (Day 6)
 --------------------------------------------------
 SPECIAL EVENT: Full-Day Summit Adventure Challenge
 
@@ -125,27 +145,7 @@ SPECIAL EVENT: Full-Day Summit Adventure Challenge
 
 ======================================================================
 
-SATURDAY - Special Interest Merit Badge Day (Day 13)
---------------------------------------------------
-SPECIAL EVENT: Merit Badge University with Guest Instructors
-
-07:00    Reveille and Morning Formation
-07:30    Flag Ceremony
-07:45    Breakfast
-09:00    Robotics Merit Badge - Programming and Competition
-11:00    Digital Technology Merit Badge - Cybersecurity Workshop
-12:00    Lunch
-13:30    Fingerprinting Merit Badge - Forensic Techniques
-15:00    Radio Merit Badge - Emergency Communications
-16:30    Merit Badge University - Choice of Specialized Badges
-17:30    Dinner
-19:00    Merit Badge Showcase - Demonstrations
-20:30    Evening Program - Camp Movie Night
-21:30    Taps
-
-======================================================================
-
-SUNDAY - Service & Reflection Day (Day 14)
+SATURDAY - Service & Reflection Day (Day 7)
 --------------------------------------------------
 SPECIAL EVENT: Community Service Projects and Reflection Activities
 
@@ -160,7 +160,7 @@ SPECIAL EVENT: Community Service Projects and Reflection Activities
 17:00    Dinner
 18:30    Court of Honor Preparation
 19:30    Inter-Troop Worship Service
-20:30    Final Evening Reflection - Week 2 Highlights
+20:30    Final Evening Reflection - Week Highlights
 21:00    Lights Out
 
 ======================================================================
