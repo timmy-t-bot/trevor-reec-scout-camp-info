@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trevor Reec Scout Camp - Parent Resources</title>
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #3498db;
+            --accent-color: #e74c3c;
+            --light-color: #ecf0f1;
+            --dark-color: #34495e;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f9fa;
+        }
+        
+        header {
+            background: linear-gradient(135deg, var(--primary-color), var(--dark-color));
+            color: white;
+            text-align: center;
+            padding: 2rem 1rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        header p {
+            font-size: 1.2rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        
+        .card-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            padding: 2rem;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+        }
+        
+        .card h2 {
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+        
+        .card ul {
+            list-style-type: none;
+        }
+        
+        .card li {
+            margin-bottom: 0.8rem;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+        
+        .card li:before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            color: var(--secondary-color);
+        }
+        
+        .card a {
+            color: var(--secondary-color);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .card a:hover {
+            text-decoration: underline;
+            color: var(--dark-color);
+        }
+        
+        footer {
+            background: var(--primary-color);
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 3rem;
+        }
+        
+        @media (max-width: 768px) {
+            .card-container {
+                grid-template-columns: 1fr;
+            }
+            
+            header h1 {
+                font-size: 2rem;
+            }
+            
+            header p {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Trevor Reec Scout Camp</h1>
+        <p>Parent Resources & Information Center - Week 2</p>
+    </header>
+    
+    <div class="container">
+        <div class="card-container">
+            <div class="card">
+                <h2>Essential Information</h2>
+                <ul>
+                    <li><a href="packing.html">Complete Packing List</a></li>
+                    <li><a href="schedule.html">Camp Schedule</a></li>
+                    <li><a href="merit-badges.html">Merit Badges</a></li>
+                    <li><a href="links.html">Important Links</a></li>
+                </ul>
+            </div>
+            
+            <div class="card">
+                <h2>Packing Guide</h2>
+                <ul>
+                    <li><a href="packing.html#clothing">Clothing Requirements</a></li>
+                    <li><a href="packing.html#personal-items">Personal Items</a></li>
+                    <li><a href="packing.html#camping-gear">Camping Gear</a></li>
+                    <li><a href="packing.html#week-2-specific">Week 2 Considerations</a></li>
+                    <li><a href="packing.html#important-notes">Important Notes</a></li>
+                </ul>
+            </div>
+            
+            <div class="card">
+                <h2>Camp Schedule</h2>
+                <ul>
+                    <li><a href="schedule.html#monday">Monday - Leadership Day</a></li>
+                    <li><a href="schedule.html#tuesday">Tuesday - Aquatics Day</a></li>
+                    <li><a href="schedule.html#wednesday">Wednesday - Engineering Day</a></li>
+                    <li><a href="schedule.html#thursday">Thursday - Survival Skills</a></li>
+                    <li><a href="schedule.html#friday">Friday - Summit Adventure</a></li>
+                    <li><a href="schedule.html#saturday">Saturday - Merit Badges</a></li>
+                    <li><a href="schedule.html#sunday">Sunday - Reflection Day</a></li>
+                </ul>
+            </div>
+            
+            <div class="card">
+                <h2>Resources</h2>
+                <ul>
+                    <li><a href="https://github.com" target="_blank">GitHub Repository</a></li>
+                    <li><a href="mailto:leadership@example.com">Contact Leadership</a></li>
+                    <li><a href="https://www.scouting.org" target="_blank">Official Scouting Site</a></li>
+                    <li><a href="https://www.google.com/search?q=boy+scout+camping+tips" target="_blank">Camping Tips</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>Troop 485 & Crew 007 Parent Resources</p>
+        <p>For questions, contact your troop leadership</p>
+    </footer>
+</body>
+</html>
